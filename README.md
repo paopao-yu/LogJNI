@@ -1,5 +1,5 @@
 # log_jni
-For android jni: write log in sdcard
+For android app: write log to sdcard
 
 
 
